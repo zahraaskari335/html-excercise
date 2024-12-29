@@ -1,3 +1,31 @@
 .p{
     display: inline;
 }
+div{color: white;
+    display: flex;
+    height: 12px;
+}
+a:hover{
+    background-color: rgb(58, 149, 84);
+
+    padding: 20px;
+}
+a{font-size: 21px;
+    color: black;
+    text-decoration: none;
+    margin-top: 17PX;
+    padding-left: 12px;
+
+}
+.a{
+    font-size: 21px;
+
+}
+input{border-radius: 25px;
+height: 29px;
+margin-top: 20px;
+margin-left: 20px;}
+.b:hover{background-color: rgb(139, 136, 136);}
+.b{
+    border-radius: 30pc;
+}
