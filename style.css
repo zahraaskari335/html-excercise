@@ -25,7 +25,7 @@ input{border-radius: 25px;
 height: 29px;
 margin-top: 20px;
 margin-left: 20px;}
-.b:hover{background-color: rgb(139, 136, 136);}
+.b:hover{background-color: rgb(139, 136, 136); margin-top: 0 ;padding-top: 0 ;}
 .b{
     border-radius: 30pc;
 }
