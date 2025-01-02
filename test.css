@@ -1,9 +1,15 @@
 *{background-color: rgb(225, 222, 222);}
 h1,b{text-align: center;color: rgb(0, 0, 0);}
 b{color: rgb(55, 30, 247);}
-div{padding-top: 7%;}
+div{padding-top: 2%;}
 i{padding-right: 9%;}
 .a{margin-left: 30%; font-size: 35px;}
 input{font-size: 20px;}
-.s{text-align: center; color: black; font-size: 36px; font-family: Algerian;text-decoration: dashed 5px underline black;}
+.s{text-align: center; color: black; font-size: 36px; 
+    font-family: Algerian;padding-bottom: 18px;
+    text-decoration: dashed 5px underline black;}
 a:hover{color: blacks; font-size:41px ; background-color: white;}
+span:hover{font-size: 25px;color: black;}
+.q{border: 10px rgb(0, 0, 0) double;margin: 9%;
+     border-radius: 40px;}
+span{color: rgb(64, 64, 234);}
