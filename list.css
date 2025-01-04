@@ -4,3 +4,6 @@ i{ color: white; margin-left: 35px ;}
 img{height: 100px;width: 100px;border: black 1px solid;
 border-radius: 60px; margin-left: 27px;}
 .w{padding-left: 46px;}
+i:hover{color: burlywood;}
+h1{color: white; text-align: center;padding-top: 25px;}
+p{color: rgb(227, 223, 223); text-align: center;padding-top: 2px;}
