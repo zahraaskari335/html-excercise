@@ -7,6 +7,15 @@ border-radius: 60px; margin-left: 27px;}
 i:hover{color: burlywood;}
 h1{color: white; text-align: center;padding-top: 25px;}
 h6{color: rgb(227, 223, 223); text-align: center;padding-top: 2px;}
-div{text-align: center; color: white; border: 3px solid snow;
-border-radius: 20px;width: 6%;}
-p{}
+div{text-align: center; color: white; 
+    border: 3px solid snow;display: inline-flex;
+border-radius: 15px;width: 6%;margin-left: 32%;}
+.e{margin-left: 6%;}
+hr{border: solid black 7px; color: black;}
+i{font-size: 23px;}
+.r{color: white;width: 40%;text-align:right;
+    margin-left: 29%; font-size: 20px;}
+ .t{ display: inline;text-align: right;color: gainsboro;margin-left: 46%; display: inline;}   
+.y{ display: inline;text-align: right;color: gainsboro; display: inline;
+margin-left:26% ;}   
+#q{margin-left: 29%;color: gainsboro;font-size: 16px;}
