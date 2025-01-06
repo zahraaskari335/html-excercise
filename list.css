@@ -1,7 +1,7 @@
 *{background-color: rgba(16, 3, 54, 0.97);}
 i{ color: white; margin-left: 35px ;}
 .q{margin-left: 30%;}
-img{height: 100px;width: 100px;border: black 1px solid;
+.i{height: 100px;width: 100px;border: black 1px solid;
 border-radius: 60px; margin-left: 27px;}
 .w{padding-left: 46px;}
 i:hover{color: burlywood;}
@@ -19,3 +19,8 @@ i{font-size: 23px;}
 .y{ display: inline;text-align: right;color: gainsboro; display: inline;
 margin-left:26% ;}   
 #q{margin-left: 29%;color: gainsboro;font-size: 16px;}
+.z{border: 1px black solid;
+border-radius: 9px;height: 100px; width: 100px;}
+.x{margin-left: 26%;border: none;padding-top: 19px;}
+.c{margin-left: 55%; border: none;display: inline;}
+span{color: white;text-align: center;}
