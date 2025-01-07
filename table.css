@@ -1,11 +1,13 @@
- *{text-align: center;font-family:IranNastaliq;font-size: largertr:
-    text-transform:;}
- table,th,td{border-bottom:  groove 1px black; 
-    border-collapse: collapse;}
-    table{width: 90%;margin: auto;
-    border-style: none solid groove solid;}
-.q{width: 40%;}
-tr:nth-child(even){background-color: gainsboro;}
-tr:hover{background-color: rgb(66, 64, 64);color: aliceblue;}
-th{height: 60px; vertical-align: top;
-    background-color: rgb(57, 56, 56);color: aliceblue;}
+ *{text-align: center;font-family:Sofia ;}
+ table,th,td{border: groove 1px black; 
+   border-collapse: collapse;font-size: 23px;}
+   th.q{width: 20%;}
+   tr:nth-child(even){background-color: gainsboro;}
+   th{height: 60px; vertical-align: top;
+      background-color: rgb(57, 56, 56);color: aliceblue;}
+      tr:hover{background-color: rgb(66, 64, 64);color: aliceblue;}
+div.div{overflow-x: scroll;
+height: 300px; 
+overflow-y: scroll;}
+table{width: 55%;}
+ 
