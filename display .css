@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+  }
+  img{
+    height: 90px;
+    width: 90px;
+    border-radius: 50px;
+  }
+  button{background-color: rgb(99, 97, 97);
+  padding: 24px 23px;
+    border-radius: 10px;
+}
+button:hover{background-color: rgb(180, 178, 178);
+    cursor:crosshair;
+    border-radius: 20px;
+
+}
+img:hover{
+    height: 97px;
+    width: 97px;
+    cursor: alias;
+}
+  .div{
+    border: 1px solid black;
+    margin: 12px;
+    text-align: center;
+    border-radius: 12px;
+    height:250px;
+    width: 100%;
+    padding-top: 15px;
+    background-color: gainsboro;
+    
+  }

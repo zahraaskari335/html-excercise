@@ -10,4 +10,29 @@ div.div{overflow-x: scroll;
 height: 300px; 
 overflow-y: scroll;}
 table{width: 55%;}
- 
+th.q{
+  width: 200px;
+}
+
+
+
+
+
+
+
+.container{
+  display: flex;
+}
+img{
+  height: 90px;
+  width: 90px;
+  border-radius: 50px;
+}
+button{background-color: rgb(129, 126, 126);
+padding: 24px 23px;}
+.div{
+  border: 1px solid black;
+  margin: 12px;
+  text-align: center;
+  border-radius: 12px;
+}
