@@ -1,0 +1,9 @@
+*{font-size: 20px;}
+a{
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+}
+a:checked{
+    
+}
