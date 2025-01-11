@@ -4,25 +4,50 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="fontawesome-free-5.15.4-web/css/all.min.css">
     <link rel="stylesheet" href="display .css">
 </head>
-<body>
-    <div class="container">
-        <div class="div" id="hide">
-            <img src="123.jpg" alt="">
-            <p>This container will be hidden</p>
-            <button onclick="document.getElementById('hide').style.display='none'">Hide</button>
+<!-- onclick="document.getElementById('hide').style.display='none'" -->
+<body style="height: fit-content;width: 95%;margin: auto;">
+        <div style="display: flex;">
+            <i class="fas fa-home"></i>
+            <i class="fas fa-user-friends"></i>
+            <i class="fas fa-video"></i>
+            <i class="fas fa-user-circle"></i>
+            <i class="fas fa-bell"></i>
+            <i class="fas fa-list-alt"></i>
         </div>
-        <div class="div" id="unvisible">
+    <h1 id="h" onclick="document.getElementById('container').style.display='flex'" >Click to see the suggestions</h1>
+     
+    <div id="container">
+        <div class="div">
+            <img src="444.jpg" alt="">
+            <p>Ahmad</p>
+            <button class="add">Add frend</button>
+            <button>Remove</button>
+        </div>
+        <hr>
+        <div class="div">
             <img src="d.jpg" alt="">
-            <p>This container will be unvisible</p>
-            <button onclick="document.getElementById('unvisible').style.visibility='hidden'" >unvisible</button>
+            <p>Ali</p>
+            <button class="add">Add frend</button>
+            <button>Remove</button>
         </div>
-        <div class="div" id="hide">
+        <hr>
+        <div class="div">
             <img src="123.jpg" alt="">
-            <p>This container will be hidden</p>
-            <button onclick="document.getElementById('hide').style.display='none'">Hide</button>
+            <p>Zahra</p>
+            <button class="add">Add frend</button>
+            <button>Remove</button>
         </div>
+        <hr>
+        <div class="div">
+            <img src="bb.jpg" alt="">
+            <p>Nazi</p>
+            <button class="add">Add frend</button>
+            <button>Remove</button>
         </div>
+        
+    </div>    
 </body>
 </html>

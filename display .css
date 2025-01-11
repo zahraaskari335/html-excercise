@@ -1,5 +1,12 @@
-.container{
-    display: flex;
+#h{
+  background-color: green;
+  text-align: center;
+}
+#container{
+    display: none;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
   }
   img{
     height: 90px;
@@ -26,8 +33,25 @@ img:hover{
     text-align: center;
     border-radius: 12px;
     height:250px;
-    width: 100%;
+    width: 30%;
     padding-top: 15px;
     background-color: gainsboro;
     
+    
   }
+  .add{
+    background-color: rgba(0, 0, 250, 0.776);
+}
+hr{
+  font-size: 40px;
+  color: black;
+}
+.fas{
+  text-align: center;
+  font-size: 34px;
+  margin: auto;
+}
+.fas:hover{
+  font-size: 38px;
+  color: rgb(94, 94, 228);
+}
